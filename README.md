@@ -181,6 +181,8 @@ Key training features:
 
 ## Citation
 
+If you find this repository useful, please kindly cite our work:
+
 ```bibtex
 @misc{peng2026wildrewardlearningrewardmodels,
       title={WildReward: Learning Reward Models from In-the-Wild Human Interactions}, 
